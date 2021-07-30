@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Carlos Clemente carlosc_zg98@hotmail.com
 
 # THANKS
 
